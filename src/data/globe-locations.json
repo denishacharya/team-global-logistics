@@ -1,0 +1,9 @@
+[
+  {"name":"Kathmandu KTM","lat":27.7172,"lng":85.3240,"iata":"KTM","isHub":true},
+  {"name":"Kolkata CCU","lat":22.6540,"lng":88.4467,"iata":"CCU"},
+  {"name":"Xian XIY","lat":34.4470,"lng":108.7516,"iata":"XIY"},
+  {"name":"Guangzhou CAN","lat":23.3925,"lng":113.2988,"iata":"CAN"},
+  {"name":"Shenzhen SZX","lat":22.6393,"lng":114.0579,"iata":"SZX"},
+  {"name":"Bangkok BKK","lat":13.6900,"lng":100.7501,"iata":"BKK"},
+  {"name":"Chistochina CZO","lat":62.0556,"lng":-145.3217,"iata":"CZO"}
+]
